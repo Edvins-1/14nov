@@ -1,4 +1,4 @@
-# Dace Tomsone - galvenais virsraksts
+# Edvīns Ļitvins - galvenais virsraksts
 ## Otrais virsraksts
 - Saraksts 1
 - Saraksts 2
